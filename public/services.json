@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "serviceName": "Eye Care",
+        "img": "https://i.ibb.co/3cMcts1/eye.jpg",
+        "description": "Your eyes are an important part of your health. Most people rely on their eyes to see and make sense of the world around them. But some eye diseases can lead to vision loss, so it is important to identify and treat eye diseases as early as possible. You should get your eyes checked as often as your health care provider recommends it, or if you have any new vision problems. And just as it is important to keep your body healthy, you also need to keep your eyes healthy."
+    },
+    {
+        "id": 2,
+        "serviceName": "Medicine",
+        "img": "https://i.ibb.co/7bMjgM4/medicin.jpg",
+        "description": "Medical Doctors perform health assessments, run diagnostic tests, prescribe medication, create treatment plans and provide health and wellness advice to patients. ... Medical Doctors can specialize in specific areas of health, such as dermatology, neurology, gastroenterology or gynecology."
+    },
+    {
+        "id": 3,
+        "serviceName": "Cardiology",
+        "img": "https://i.ibb.co/8mTLJqk/cardiology.jpg",
+        "description": "Cardiologists are doctors who specialize in diagnosing and treating diseases or conditions of the heart and blood vessels—the cardiovascular system. You might also visit a cardiologist so you can learn about your risk factors for heart disease and find out what measures you can take for better heart health."
+    },
+    {
+        "id": 4,
+        "serviceName": "Orthopedic",
+        "img": "https://i.ibb.co/Wp19k6w/orthopedic.jpg",
+        "description": "Orthopedic surgeons are doctors who specialize in the musculoskeletal system - the bones, joints, ligaments, tendons, and muscles that are so essential to movement and everyday life. ... This lets them diagnose, treat and even prevent orthopedic problems with next-level precision"
+    },
+    {
+        "id": 5,
+        "serviceName": "Dental Care",
+        "img": "https://i.ibb.co/k5J4tt6/dental-Copy.jpg",
+        "description": "Tooth decay and gum disease are caused by plaque, a sticky combination of bacteria and food. Plaque begins to build up on teeth within a few minutes after eating. If teeth are not cleaned well each day, plaque will lead to tooth decay or gum disease."
+    },
+    {
+        "id": 6,
+        "serviceName": "Hypothyroidism",
+        "img": "https://i.ibb.co/p1sZz6X/thyroid.png",
+        "description": "Diagnosis of hypothyroidism is based on your symptoms and the results of blood tests that measure the level of TSH and sometimes the level of the thyroid hormone thyroxine. A low level of thyroxine and high level of TSH indicate an underactive thyroid."
+    }
+]

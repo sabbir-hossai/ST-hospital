@@ -1,0 +1,26 @@
+.footer-container{
+    margin-top: 25px;
+    position:static;
+    bottom: 0;
+    background-color: black;
+    color: white;
+}
+.footer{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+}
+.opening{
+
+}
+.openingUl ul li{
+text-align: left;
+text-transform: none;
+list-style-type:none
+}
+.openingUl{
+    display: flex;
+}
+.time li{
+    color: rgb(43, 237, 43);
+}

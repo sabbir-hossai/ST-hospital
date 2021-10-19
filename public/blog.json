@@ -1,0 +1,26 @@
+[
+    {
+        "blogId": 1,
+        "name": "physical fitness",
+        "img": "https://i.ibb.co/YyMPfnn/physical-fitness.jpg",
+        "description": "Physical fitness refers to the ability of your body systems to work together efficiently to allow you to be healthy and perform activities of daily living. Being efficient means doing daily activities with the least effort possible. A fit person is able to perform schoolwork, meet home responsibilities, and still have enough energy to enjoy sport and other leisure activities. A fit person can respond effectively to normal life situations, such as raking leaves at home, stocking shelves at a part-time job, and marching in the band at school. A fit person can also respond to emergency situations - for example, by running to get help or aiding a friend in distress."
+    },
+    {
+        "blogId": 2,
+        "name": "social distance",
+        "img": "https://i.ibb.co/QrS6ynG/corono.jpg",
+        "description": "The practice of social distancing means staying home and away from others as much as possible to help prevent spread of COVID-19. The practice of social distancing encourages the use of things such as online video and phone communication instead of in-person contact activities. A fit person can respond effectively to normal life situations, such as raking leaves at home, stocking shelves at a part-time job, and marching in the band at school. A fit person can also respond to emergency situations - for example, by running to get help or aiding a friend in distress."
+    },
+    {
+        "blogId": 3,
+        "name": "What is mental health? ",
+        "img": "https://i.ibb.co/rdw9Bzz/mantal.jpg",
+        "description": "Let’s get things started with a mental health definition. The term mental health refers to an individual’s emotional, psychological, and social wellbeing. The World Health Organisation further defines it as “a state of wellbeing in which the individual realises his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community"
+    },
+    {
+        "blogId": 4,
+        "name": "Social health",
+        "img": "https://i.ibb.co/kHCVC8Z/social.jpg",
+        "description": "Social health can be defined as our ability to interact and form meaningful relationships with others. It also relates to how comfortably we can adapt in social situations. Social relationships have an impact on our mental health, physical health and mortality risk.Over the years, sociologists have created a link between social relationships and health outcomes. Studies are showing that social relationships both quality and quantity are having short and long-term effects on our health. "
+    }
+]

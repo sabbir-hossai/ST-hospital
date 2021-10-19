@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Abraham Khan",
+        "specialistf": "neurosurgeon",
+        "img": "https://i.ibb.co/Fmgn2f7/doctor1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dr. Nadim Kamal",
+        "specialistf": "MBBS, M.D of Medicine",
+        "img": "https://i.ibb.co/tKWSWGT/doctor2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dr. MR A Rahman",
+        "specialistf": "cardiologist",
+        "img": "https://i.ibb.co/BGtdymH/doctor3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Dr. HM Tariq",
+        "specialistf": "dentist",
+        "img": "https://i.ibb.co/fxQTf5h/pexels-thirdman-5327871.jpg"
+    }
+]

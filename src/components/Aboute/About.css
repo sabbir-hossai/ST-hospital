@@ -1,0 +1,12 @@
+.about-container{
+    margin-top: 25px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.aboutTop{
+    display: flex;
+}
+.aboutTop p{
+    text-align: left;
+    margin-left: 15px;
+}
