@@ -14,9 +14,6 @@ const Aboute = () => {
         <div className="about-container">
             <div >
                 <div className="aboutTop">
-                    <div className="">
-                        <img src="https://i.ibb.co/fFKYHPx/hospital.jpg" alt="" />
-                    </div>
                     <div>
                         <h1>ABOUT ST MEDILINK HOSPITAL</h1>
                         <p>ST medilink hospital is a UK registered charity established with the vision of providing essential healthcare to the underprivileged in remote villages in Africa. We aim to inspire and support the education of disadvantaged children, empower young generations to become self-reliant and live better lives.

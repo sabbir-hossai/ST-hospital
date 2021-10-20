@@ -1,0 +1,23 @@
+.details {
+    border: 1px solid lightgray;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 20px;
+}
+@media only screen and (max-width:480px) {
+    .details{
+        border: 1px solid lightgray;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 20px;
+    }
+    .details div img{
+        width: 250px;
+    }
+}
+.details div img{
+    width: 350px;
+}
+.details div p{
+    text-align: left;
+}

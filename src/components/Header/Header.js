@@ -6,7 +6,9 @@ import './Header.css'
 
 const Header = () => {
     const { users, logOut } = useFirebase();
-
+    const clearUser = () => {
+        localStorage.removeItem('user')
+    }
     return (
         < >
             <Navbar className="navbar" collapseOnSelect expand="md" bg="dark" variant="dark">

@@ -5,13 +5,13 @@ import useFirebase from '../../../Hooks/useFirebase';
 
 
 const PrivateRoute = ({ children, ...rest }) => {
-    const { users } = useAuth()
-    console.log(users)
-
+    // const { users } = useAuth()
+    // console.log(users)
+    const user = JSON.parse(localStorage.getItem('user'))
     return (
         <Route
             {...rest}
-            render={({ location }) => users.email ? children : <Redirect
+            render={({ location }) => user?.email ? children : <Redirect
                 to={{
                     pathname: "/login",
                     state: { from: location }

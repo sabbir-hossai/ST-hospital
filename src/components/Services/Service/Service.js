@@ -1,13 +1,14 @@
 import React from 'react';
 import { Button, Card, Col } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
+import './Service.css'
 
 const Service = (props) => {
     const { id, serviceName, description, img } = props.service;
 
 
     return (
-        <div>
+        <div className="service">
             <Col>
                 <Card>
                     <Card.Img height="200px" variant="top" src={img} />

@@ -23,9 +23,7 @@ const Footer = () => {
                         </ul>
                     </div>
                 </div>
-                <div>
 
-                </div>
                 <div className="opening">
                     <h3>Opening Hours</h3>
                     <div className="openingUl">

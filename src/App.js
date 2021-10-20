@@ -14,6 +14,7 @@ import Footer from './components/Footer/Footer';
 import Aboute from './components/Aboute/Aboute';
 import PrivateRoute from './components/Login/PrivateRoute/PrivateRoute';
 import AuthProvider from './contexts/AuthProvider';
+import Register from './components/Login/Register/Register';
 
 
 function App() {
@@ -44,6 +45,9 @@ function App() {
             <PrivateRoute path="/servicedetail/:serviceId">
               <ServiceDetail></ServiceDetail>
             </PrivateRoute>
+            <Route path="/register">
+              <Register></Register>
+            </Route>
             <Route path="*">
               <NotFound></NotFound>
             </Route>
